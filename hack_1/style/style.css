@@ -1,0 +1,25 @@
+*{
+    margin:0;
+}
+
+header{
+    background: #93b5c9;
+    height: 96px;
+}
+
+main{
+    background: #AB2849;
+    height: 280px;
+}
+
+div{
+    background: #AB2849;
+    height: 70px;
+    margin: 12px 0 0 250px;
+}
+
+footer{
+    background: #AB2849;
+    height: 70px;
+    margin: 12px 50px 0 50px;
+}
